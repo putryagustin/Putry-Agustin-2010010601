@@ -1,0 +1,51 @@
+h1{   color: orange;  
+    font-family: "Segoe UI"; } 
+.kotak1{  
+     padding: 50px; 
+     width: 100px; 
+     height: 50px; 
+     color: #fff; 
+     margin: 10px; 
+     background: #0000ff; 
+     float: left; 
+     }
+     
+#kotak2 {  
+    padding: 50px;
+    width: 100px;  
+    color: #fff; 
+    height: 50px;  
+    margin: 10px; 
+    background: #a64dff;  
+    float: left;  
+            } 
+.kotak3{  
+     padding: 50px; 
+     width: 100px; 
+     height: 50px; 
+     color: #fff; 
+     margin: 10px; 
+     background: #0000ff; 
+     float: left; 
+     }
+     
+#kotak4 {  
+    padding: 50px;
+    width: 100px;  
+    color: #666666; 
+    height: 50px;  
+    margin: 10px; 
+    background: #ff9999;  
+    float: left;  
+            } 
+
+#kotak5 {  
+    padding: 50px;
+    width: 100px;  
+    color: #fff; 
+    height: 50px;  
+    margin: 10px; 
+    background: #ff6600;  
+    float: left;  
+            } 
+       
